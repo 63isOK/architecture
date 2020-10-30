@@ -6,3 +6,4 @@
 - [事件驱动架构](/event-driven.md)
 - [微内核架构](/microkernel.md)
 - [微服务架构](/microservices.md)
+- [基于空间的架构](/space.md)
